@@ -11,7 +11,8 @@
     "db:seed": "prisma db seed",
     "db:setup": "npm install && npm run db:generate && npm run db:push && npm run db:seed",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "test-db": "node test-db.js"
+    "test-db": "node test-db.js",
+    "postinstall": "prisma generate && prisma db push"
   },
   "keywords": [],
   "author": "Parth Khandla",
