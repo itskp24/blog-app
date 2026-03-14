@@ -124,7 +124,7 @@ export default function HomePage({ posts }) {
 
         <footer className={styles.footer}>
           <div className="container">
-            <p>© {new Date().getFullYear()} BLOG. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} BLOG. All rights reserved. </p>
           </div>
         </footer>
       </div>
