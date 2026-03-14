@@ -1,0 +1,76 @@
+.skeleton {
+  background-color: var(--color-bg-secondary);
+  background-image: linear-gradient(
+    90deg,
+    var(--color-bg-secondary) 0px,
+    var(--color-border-light) 40px,
+    var(--color-bg-secondary) 80px
+  );
+  background-size: 600px;
+  animation: shimmer 1.5s infinite linear;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -150px;
+  }
+  100% {
+    background-position: 450px;
+  }
+}
+
+.homeGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-8);
+}
+
+.card {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.cardImage {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.cardBody {
+  padding: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.cardFooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: auto;
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--color-border-light);
+}
+
+.cardAuthor {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+@media (max-width: 1024px) {
+  .homeGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-6);
+  }
+}
+
+@media (max-width: 640px) {
+  .homeGrid {
+    grid-template-columns: 1fr;
+    gap: var(--space-5);
+  }
+}

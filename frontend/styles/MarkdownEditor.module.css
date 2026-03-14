@@ -1,0 +1,65 @@
+
+
+.editor-container {
+  margin: var(--space-8) 0;
+  padding: var(--space-6);
+  border: 1px solid var(--color-border);
+  background: var(--color-bg-secondary);
+  border-radius: var(--radius-md);
+}
+
+.editor-heading {
+  font-family: var(--font-sans);
+  font-size: var(--fs-md);
+  font-weight: var(--fw-semibold);
+  margin-bottom: var(--space-4);
+}
+
+.editor-textarea {
+  width: 100%;
+  min-height: 200px;
+  padding: var(--space-4);
+  font-family: var(--font-sans);
+  font-size: var(--fs-sm);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  resize: vertical;
+  background: #fff;
+}
+
+.editor-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: var(--space-3);
+  margin-top: var(--space-4);
+}
+
+.btn {
+  padding: var(--space-2) var(--space-6);
+  border-radius: var(--radius-full);
+  font-family: var(--font-sans);
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-medium);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.btn-cancel {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-secondary);
+}
+
+.btn-cancel:hover {
+  background: #eee;
+}
+
+.btn-save {
+  background: var(--color-btn-dark);
+  color: #fff;
+  border: 1px solid var(--color-btn-dark);
+}
+
+.btn-save:hover {
+  background: var(--color-btn-dark-hover);
+}

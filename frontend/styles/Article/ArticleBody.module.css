@@ -1,0 +1,33 @@
+
+
+.body {
+  padding: var(--space-8) 0;
+}
+
+.body__paragraph {
+  font-family: var(--font-serif);
+  font-size: var(--fs-md);
+  line-height: 1.9;
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-6);
+}
+
+.body__paragraph:last-child {
+  margin-bottom: 0;
+}
+
+.body__blockquote {
+  margin: var(--space-8) 0;
+  padding: var(--space-6) var(--space-8);
+  border-left: none;
+  background: none;
+}
+
+.body__blockquote p {
+  font-family: var(--font-serif);
+  font-size: var(--fs-md);
+  font-style: italic;
+  font-weight: var(--fw-regular);
+  line-height: var(--lh-relaxed);
+  color: var(--color-text-primary);
+}

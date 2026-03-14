@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "the-ultimate-guide-to-full-body-workouts",
+    "comments": [
+      {
+        "id": 1,
+        "author": "Kang Haerin",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=80&h=80&fit=crop&crop=faces",
+        "rating": 5,
+        "date": "22 Jul 2022",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus"
+      },
+      {
+        "id": 2,
+        "author": "Kang Haerin",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=80&h=80&fit=crop&crop=faces",
+        "rating": 5,
+        "date": "22 Jul 2022",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus"
+      },
+      {
+        "id": 1773386358829,
+        "author": "Test User",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=faces",
+        "rating": 5,
+        "date": "13 Mar 2026",
+        "text": "This is a test comment using Axios."
+      }
+    ]
+  },
+  {
+    "slug": "5-tips-for-better-cardio-sessions",
+    "comments": [
+      {
+        "id": 1,
+        "author": "Miranda Rachel",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=80&h=80&fit=crop&crop=faces",
+        "rating": 4,
+        "date": "10 Aug 2022",
+        "text": "Really helpful tips! I especially loved the heart rate monitoring advice. Going to implement these starting this week."
+      }
+    ]
+  },
+  {
+    "slug": "meal-prep-basics-for-gym-enthusiasts",
+    "comments": [
+      {
+        "id": 1773385402984,
+        "author": "dfgdfg",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=faces",
+        "rating": 5,
+        "date": "13 Mar 2026",
+        "text": "fgdfg"
+      }
+    ]
+  },
+  {
+    "slug": "building-core-strength-exercises-and-benefits",
+    "comments": []
+  }
+]

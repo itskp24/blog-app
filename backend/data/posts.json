@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "slug": "the-ultimate-guide-to-full-body-workouts",
+    "title": "The Ultimate Guide to Full-Body Workouts",
+    "date": "23 January 2025",
+    "category": "Fitness",
+    "excerpt": "Discover exercises that target every muscle group, helping you build strength and endurance. Perfect for beginners and seasoned gym-goers alike.",
+    "heroImage": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=1200&h=500&fit=crop&crop=faces",
+    "author": {
+      "name": "Alex Carter",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=80&h=80&fit=crop&crop=faces",
+      "bio": "With over a decade in fitness, Alex specializes in strength training. Certified by NASM, he designs challenging yet achievable workout programs. His passion is helping clients build strength and confidence through personalized routines. Outside the gym, Alex enjoys running and outdoor adventures."
+    },
+    "body": [
+      "Discover exercises that target every muscle group, helping you build strength and endurance. Perfect for beginners and seasoned gym-goers alike.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "With over a decade of experience in the fitness industry, Alex specializes in strength training and functional fitness. Certified by NASM and known for his motivational style, Alex designs workout programs that are both challenging and achievable. His passion lies in helping clients build strength and confidence through personalized training routines. Outside the gym, Alex is an avid runner and enjoys outdoor adventures.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean"
+    ],
+    "blockquote": "With over a decade of experience in functional fitness. Certified by NASM, Alex designs workout programs that are both challenging and achievable. His passion lies in helping clients build strength and confidence through personalized training routines. Outside the gym, Alex is an avid runner and enjoys outdoor adventures.",
+    "prevPost": {
+      "slug": "5-tips-for-better-cardio-sessions",
+      "title": "5 Tips for Better Cardio Sessions"
+    },
+    "nextPost": {
+      "slug": "meal-prep-basics-for-gym-enthusiasts",
+      "title": "Meal Prep Basics for Gym Enthusiasts"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "5-tips-for-better-cardio-sessions",
+    "title": "5 Tips for Better Cardio Sessions",
+    "date": "15 January 2025",
+    "category": "Fitness",
+    "excerpt": "Improve your cardio performance with these five science-backed tips to maximize your workout efficiency.",
+    "heroImage": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=1200&h=500&fit=crop",
+    "author": {
+      "name": "Sarah Miles",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&crop=faces",
+      "bio": "Sarah is a certified personal trainer and marathon runner with 8 years of experience helping clients reach their cardio goals."
+    },
+    "body": [
+      "Cardio is the foundation of any great fitness routine. Whether you're training for a marathon or just want to improve your stamina, these five tips will take your cardio sessions to the next level.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "Consistency is key when it comes to cardio. Try to maintain a regular schedule and gradually increase your intensity over time for best results.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus"
+    ],
+    "blockquote": "The secret to better cardio is not just working harder — it is working smarter. Track your heart rate, vary your intensity, and always prioritize recovery.",
+    "prevPost": {
+      "slug": "the-ultimate-guide-to-full-body-workouts",
+      "title": "The Ultimate Guide to Full-Body Workouts"
+    },
+    "nextPost": {
+      "slug": "meal-prep-basics-for-gym-enthusiasts",
+      "title": "Meal Prep Basics for Gym Enthusiasts"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "meal-prep-basics-for-gym-enthusiasts",
+    "title": "Meal Prep Basics for Gym Enthusiasts",
+    "date": "08 January 2025",
+    "category": "Nutrition",
+    "excerpt": "Fuel your workouts with balanced, pre-prepared meals. Learn how to meal prep like a pro to hit your fitness goals.",
+    "heroImage": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=1200&h=500&fit=crop",
+    "author": {
+      "name": "Emma Rodriguez",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=80&h=80&fit=crop&crop=faces",
+      "bio": "Emma is a registered dietitian and fitness enthusiast who believes that what you eat is just as important as how you train."
+    },
+    "body": [
+      "Nutrition is the backbone of any fitness journey. Without the right fuel, even the most intense workout routine will fall short of your goals.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "The key to successful meal prep is simplicity. Choose 3-4 base ingredients, cook them in bulk, and mix and match throughout the week.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus"
+    ],
+    "blockquote": "A meal prepped in advance is a goal achieved in advance. Prepare your plate before you prepare your excuses.",
+    "prevPost": {
+      "slug": "5-tips-for-better-cardio-sessions",
+      "title": "5 Tips for Better Cardio Sessions"
+    },
+    "nextPost": {
+      "slug": "building-core-strength-exercises-and-benefits",
+      "title": "Building Core Strength: Exercises And Benefits"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "building-core-strength-exercises-and-benefits",
+    "title": "Building Core Strength: Exercises And Benefits",
+    "date": "02 January 2025",
+    "category": "Fitness",
+    "excerpt": "A strong core is essential for stability and injury prevention. Learn the best exercises to enhance your core strength.",
+    "heroImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=500&fit=crop",
+    "author": {
+      "name": "Ryan Hayes",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop&crop=faces",
+      "bio": "Ryan is a former gymnast turned core-conditioning specialist. He focuses on building a solid foundation from the inside out."
+    },
+    "body": [
+      "Your core is not just your abs — it includes all the muscles of your midsection, including your back, hips, and pelvis. A strong core improves everything.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus"
+    ],
+    "blockquote": "A strong core is the foundation of every great movement, from the simplest walk to the most complex athletic performance.",
+    "prevPost": {
+      "slug": "meal-prep-basics-for-gym-enthusiasts",
+      "title": "Meal Prep Basics for Gym Enthusiasts"
+    },
+    "nextPost": {
+      "slug": "the-ultimate-guide-to-full-body-workouts",
+      "title": "The Ultimate Guide to Full-Body Workouts"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "mastering-morning-routine",
+    "title": "Mastering Your Morning Routine for Peak Productivity",
+    "date": "13 June 2022",
+    "category": "Productivity",
+    "excerpt": "Start your day right with a structured morning routine that boosts your focus and sets you up for success.",
+    "heroImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=500&fit=crop",
+    "author": {
+      "name": "David Chen",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=80&h=80&fit=crop&crop=faces",
+      "bio": "David is a productivity coach and writer who helps professionals optimize their daily routines for maximum output and minimal stress."
+    },
+    "body": [
+      "A productive day starts long before you sit down at your desk. It begins the moment you wake up.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+      "Creating a consistent morning routine can drastically reduce decision fatigue. Start with a glass of water, a 10-minute meditation, and a quick review of your top three goals for the day."
+    ],
+    "blockquote": "Win the morning, win the day. Your first hour sets the tone for everything that follows.",
+    "prevPost": {
+      "slug": "the-ultimate-guide-to-full-body-workouts",
+      "title": "The Ultimate Guide to Full-Body Workouts"
+    },
+    "nextPost": {
+      "slug": "enjoying-sunset-padar",
+      "title": "Enjoying the sunset on Padar island together"
+    }
+  },
+  {
+    "id": 6,
+    "slug": "enjoying-sunset-padar",
+    "title": "Enjoying the sunset on Padar island together",
+    "date": "22 July 2022",
+    "category": "Travel",
+    "excerpt": "Experience the breathtaking views and shared moments of a sunset on Padar Island.",
+    "heroImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=500&fit=crop",
+    "author": {
+      "name": "Maya Lin",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=80&h=80&fit=crop&crop=faces",
+      "bio": "Maya is a travel photographer and writer who has visited over 50 countries, capturing the magic of golden hours around the globe."
+    },
+    "body": [
+      "Standing atop Padar Island, the world seems to pause. The sky turns into a canvas of oranges and purples as we watch the sun dip below the horizon.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus"
+    ],
+    "blockquote": "Travel far enough, and you meet yourself in the reflection of a setting sun.",
+    "prevPost": {
+      "slug": "mastering-morning-routine",
+      "title": "Mastering Your Morning Routine for Peak Productivity"
+    },
+    "nextPost": {
+      "slug": "lush-green-campgrounds",
+      "title": "The lush green surroundings of the campgrounds create a.."
+    }
+  },
+  {
+    "id": 7,
+    "slug": "lush-green-campgrounds",
+    "title": "The lush green surroundings of the campgrounds create a..",
+    "date": "22 July 2022",
+    "category": "Travel",
+    "excerpt": "A deep dive into the serenity of nature's green canopy at our favorite camping spot.",
+    "heroImage": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&h=500&fit=crop",
+    "author": {
+      "name": "Oliver Reed",
+      "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=80&h=80&fit=crop&crop=faces",
+      "bio": "Oliver is an outdoor enthusiast and wilderness survival instructor. He loves sharing hidden off-the-grid camping spots."
+    },
+    "body": [
+      "The camping grounds are enveloped in a vibrant green that feels almost surreal. It's the perfect escape from the bustle of city life.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
+    ],
+    "blockquote": "In nature, every leaf is a flower and every campground is a sanctuary.",
+    "prevPost": {
+      "slug": "enjoying-sunset-padar",
+      "title": "Enjoying the sunset on Padar island together"
+    },
+    "nextPost": {
+      "slug": "the-ultimate-guide-to-full-body-workouts",
+      "title": "The Ultimate Guide to Full-Body Workouts"
+    }
+  }
+]

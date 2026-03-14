@@ -1,0 +1,35 @@
+{
+  "name": "blog-backend",
+  "version": "1.0.0",
+  "description": "Node.js + Express API for the Blog system, powered by Prisma and PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push",
+    "db:seed": "prisma db seed",
+    "db:setup": "npm install && npm run db:generate && npm run db:push && npm run db:seed",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-db": "node test-db.js"
+  },
+  "keywords": [],
+  "author": "Parth Khandla",
+  "license": "ISC",
+  "type": "commonjs",
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^7.5.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "prisma": "^7.5.0"
+  },
+  "devDependencies": {
+    "@prisma/adapter-pg": "^7.5.0",
+    "pg": "^8.20.0"
+  }
+}
